@@ -1,0 +1,7 @@
+{
+    "board": "adafruit:samd:adafruit_feather_m0",
+    "output": "../ArduinoOutput_feather.m0.wifi.servo.pwm",
+    "configuration": "usbstack=arduino,debug=off",
+    "sketch": "Feather.M0.SimpleWebServerWiFi.servo.ino",
+    "port": "COM13"
+}
